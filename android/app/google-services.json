@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "136001590052",
+    "firebase_url": "https://car-wash-lighting-default-rtdb.firebaseio.com",
+    "project_id": "car-wash-lighting",
+    "storage_bucket": "car-wash-lighting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136001590052:android:e3c86661640ff6276059b1",
+        "android_client_info": {
+          "package_name": "com.car.carwashlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136001590052-ckturnc7ks5npj61ums0o2gkdom2kaqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.car.carwashlight",
+            "certificate_hash": "729bef3fce887cca5ec117ffc5935fcbb48de076"
+          }
+        },
+        {
+          "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkztrkwlaU170TBgx33Jm5-soTOyTOusg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136001590052-53rrjh078958r98rbpln7ckc8vknhmns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carwash.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136001590052:android:d9eb1a1368bdd0e86059b1",
+        "android_client_info": {
+          "package_name": "com.carwash.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkztrkwlaU170TBgx33Jm5-soTOyTOusg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136001590052-53rrjh078958r98rbpln7ckc8vknhmns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carwash.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136001590052:android:50064ab9ddbf796d6059b1",
+        "android_client_info": {
+          "package_name": "com.example.carwash_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkztrkwlaU170TBgx33Jm5-soTOyTOusg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136001590052-53rrjh078958r98rbpln7ckc8vknhmns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carwash.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136001590052:android:7053167c598e9bb86059b1",
+        "android_client_info": {
+          "package_name": "com.redarapp.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkztrkwlaU170TBgx33Jm5-soTOyTOusg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136001590052-pe7rqmj6eku8cljbiaj9nms5r2l6k92t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136001590052-53rrjh078958r98rbpln7ckc8vknhmns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carwash.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
